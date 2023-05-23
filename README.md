@@ -1,0 +1,1 @@
+# react-native-passport-id-nfc-reader
