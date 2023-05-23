@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  PassportIdNfcReader
+
+  Created by Güneş İLİKSİZ on 23.05.2023.
+  Copyright © 2023 Facebook. All rights reserved.
+*/
+"NFCDisplayMessageStrings_NearNFC" = "Tenez votre iPhone près d'un passeport compatible NFC.";
+"NFCDisplayMessageStrings_Authenticating" = "Authentification";
+"NFCDisplayMessageStrings_Reading" = "En lisant";
+"NFCDisplayMessageStrings_TagNoValid" = "Balise non valide";
+"NFCDisplayMessageStrings_OneTagFound" = "Plusieurs balises trouvées. Veuillez n'afficher qu'un seul tag.";
+"NFCDisplayMessageStrings_ConnectionError" = "Erreur de connexion. Veuillez réessayer.";
+"NFCDisplayMessageStrings_MRZKeyNotValid" = "La clé MRZ n'est pas valide pour ce document.";
+"NFCDisplayMessageStrings_ProblemReading" = "Désolé, un problème est survenu lors de la lecture du";
+"NFCDisplayMessageStrings_TryAgainProblemReading" = "Désolé, un problème est survenu lors de la lecture Veuillez réessayer.";
+"NFCDisplayMessageStrings_ReadSuccessfully" = "Lu avec succès";
+"NFCDisplayMessageStrings_InvalidResponse" = "Réponse invalide";
+"NFCDisplayMessageStrings_UnexpectedError" = "Erreur inattendue";
+"NFCDisplayMessageStrings_NFCNotSupported" = "NFC non pris en charge";
+"NFCDisplayMessageStrings_NoConnectedTag" = "Balise non connectée";
+"NFCDisplayMessageStrings_D087Malformed" = "D087 Malformé";
+"NFCDisplayMessageStrings_InvalidResponseChecksum" = "Somme de contrôle de réponse invalide";
+"NFCDisplayMessageStrings_MissingMandatoryFields" = "Champs obligatoires manquants";
+"NFCDisplayMessageStrings_CannotDecodeASN1Length" = "Impossible de décoder la longueur ASN1";
+"NFCDisplayMessageStrings_InvalidASN1Value" = "Valeur ASN1 invalide";
+"NFCDisplayMessageStrings_UnableToProtectAPDU" = "Impossible de protéger l'APDU";
+"NFCDisplayMessageStrings_UnableToUnprotectAPDU" = "Impossible de déprotéger l'APDU";
+"NFCDisplayMessageStrings_UnsupportedDataGroup" = "Groupe de données non pris en charge";
+"NFCDisplayMessageStrings_NFCDisplayMessageStrings_DataGroupNotRead" = "Groupe de données non lu";
+"NFCDisplayMessageStrings_UnknownTag" = "Balise inconnue";
+"NFCDisplayMessageStrings_UnknownImageFormat" = "Format d'image inconnu";
+"NFCDisplayMessageStrings_NotImplemented" = "Pas mis en œuvre";
+"NFCDisplayMessageStrings_TagNotValid" = "Balise non valide";
+"NFCDisplayMessageStrings_ConnectionEr" = "Erreur de connexion";
+"NFCDisplayMessageStrings_UserCanceled" = "Utilisateur annulé";
+"NFCDisplayMessageStrings_InvalidMRZKey" = "Clé MRZ invalide";
+"NFCDisplayMessageStrings_MoreThanOneTagFound" = "Plus d'une balise trouvée";
+"NFCDisplayMessageStrings_InvalidHashAlgorithmSpecified" = "Algorithme de hachage spécifié invalide";
+"NFCDisplayMessageStrings_UnsupportedCipherAlgorithm" = "Algorithme de chiffrement non pris en charge";
+"NFCDisplayMessageStrings_UnsupportedMappingType" = "Type de mappage non pris en charge";
+"NFCDisplayMessageStrings_PACEError" = "Erreur PACE";
+"NFCDisplayMessageStrings_ChipAuthenticationFailed" = "Échec de l'authentification de la puce";
+"NFCDisplayMessageStrings_InvalidDataPassed" = "Données invalides transmises";
+"NFCDisplayMessageStrings_NotYetSupported" = "Pas encore pris en charge";
+"NFCDisplayMessageStrings_SecurityStatusNotSatisfied"="Статус безопасности не удовлетворен";
+"NFCDisplayMessageStrings_SessionInvalidated"="Session invalidée";
+"NFCDisplayMessageStrings_ClassNotSupported"="Classe non prise en charge";
+"NFCDisplayMessageStrings_TagConnectionLost"="Connexion de balise perdue";

@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  PassportIdNfcReader
+
+  Created by Güneş İLİKSİZ on 23.05.2023.
+  Copyright © 2023 Facebook. All rights reserved.
+*/
+"NearNFC" = "Halten Sie Ihr iPhone in die Nähe eines NFC-fähigen Reisepasses.";
+"Authenticating" = "Authentifizierung";
+"Reading" = "Lektüre";
+"TagNoValid" = "Tag nicht gültig";
+"OneTagFound" = "Mehr als ein Tag gefunden. Bitte zeigen Sie nur ein Tag an";
+"ConnectionError" = "Verbindungsfehler. Bitte versuche es erneut.";
+"MRZKeyNotValid" = "Der MRZ-Schlüssel ist für dieses Dokument nicht gültig";
+"ProblemReading" = "Leider ist beim Lesen ein Problem aufgetreten";
+"TryAgainProblemReading" = "Leider ist beim Lesen ein Problem aufgetreten. Bitte versuche es erneut";
+"ReadSuccessfully" = "Erfolgreich gelesen";
+"InvalidResponse" = "Ungültige Antwort";
+"UnexpectedError" = "Unerwarteter Fehler";
+"NFCNotSupported" = "NFC wird nicht unterstützt";
+"NoConnectedTag" = "Tag nicht verbunden";
+"D087Malformed" = "D087 fehlerhaft";
+"InvalidResponseChecksum" = "Ungültige Antwortprüfsumme";
+"MissingMandatoryFields" = "Fehlende Pflichtfelder";
+"CannotDecodeASN1Length" = "ASN1-Länge kann nicht dekodiert werden";
+"InvalidASN1Value" = "Ungültiger ASN1-Wert";
+"UnableToProtectAPDU" = "APDU kann nicht geschützt werden";
+"UnableToUnprotectAPDU" = "APDU-Schutz kann nicht aufgehoben werden";
+"UnsupportedDataGroup" = "Nicht unterstützte Datengruppe";
+"DataGroupNotRead" = "Datengruppe nicht gelesen";
+"UnknownTag" = "Unbekannter Tag";
+"UnknownImageFormat" = "Unbekanntes Bildformat";
+"NotImplemented" = "Nicht implementiert";
+"TagNotValid" = "Tag nicht gültig";
+"ConnectionError" = "Verbindungsfehler";
+"UserCanceled" = "Benutzer abgebrochen";
+"InvalidMRZKey" = "Ungültiger MRZ-Schlüssel";
+"MoreThanOneTagFound" = "Mehr als ein Tag gefunden";
+"InvalidHashAlgorithmSpecified" = "Ungültiger angegebener Hash-Algorithmus";
+"UnsupportedCipherAlgorithm" = "Nicht unterstützter Verschlüsselungsalgorithmus";
+"UnsupportedMappingType" = "Nicht unterstützter Zuordnungstyp";
+"PACEError" = "PACE-Fehler";
+"ChipAuthenticationFailed" = "Chip-Authentifizierung fehlgeschlagen";
+"InvalidDataPassed" = "Ungültige Daten übergeben";
+"NotYetSupported" = "Noch nicht unterstützt";
+"NFCDisplayMessageStrings_SecurityStatusNotSatisfied"="Sicherheitsstatus nicht erfüllt“";
+"NFCDisplayMessageStrings_SessionInvalidated"="Sitzung ungültig";
+"NFCDisplayMessageStrings_ClassNotSupported"="Klasse nicht unterstützt";
+"NFCDisplayMessageStrings_TagConnectionLost"="Tag-Verbindung verloren";

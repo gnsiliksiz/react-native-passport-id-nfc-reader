@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  PassportIdNfcReader
+
+  Created by Güneş İLİKSİZ on 23.05.2023.
+  Copyright © 2023 Facebook. All rights reserved.
+*/
+
+"NFCDisplayMessageStrings_NearNFC" = "iPhone'unuzu NFC özellikli bir kimlik/pasaport  yakınında tutun";
+"NFCDisplayMessageStrings_Authenticating" = "Kimlik Doğrulama";
+"NFCDisplayMessageStrings_Reading" = "Okuma";
+"NFCDisplayMessageStrings_TagNoValid" = "Etiket geçerli değil";
+"NFCDisplayMessageStrings_OneTagFound" = "Birden fazla etiket bulundu. Lütfen sadece bir etiket gösterin";
+"NFCDisplayMessageStrings_ConnectionError" = "Bağlantı hatası. Lütfen tekrar deneyin.";
+"NFCDisplayMessageStrings_MRZKeyNotValid" = "MRZ Anahtarı bu belge için geçerli değil";
+"NFCDisplayMessageStrings_ProblemReading" = "Üzgünüz, okumada bir sorun oluştu.";
+"NFCDisplayMessageStrings_TryAgainProblemReading" = "Üzgünüz, okumada bir sorun oluştu. Lütfen tekrar deneyin";
+"NFCDisplayMessageStrings_ReadSuccessfully" = "Başarıyla okundu";
+"NFCDisplayMessageStrings_InvalidResponse" = "Geçersiz cevap";
+"NFCDisplayMessageStrings_UnexpectedError" = "Beklenmeyen hata";
+"NFCDisplayMessageStrings_NFCNotSupported" = "NFC Desteklenmiyor";
+"NFCDisplayMessageStrings_NoConnectedTag" = "Bağlı Etiket Yok";
+"NFCDisplayMessageStrings_D087Malformed" = "D087 Hatalı biçimlendirilmiş";
+"NFCDisplayMessageStrings_InvalidResponseChecksum" = "Geçersiz Yanıt Sağlama Toplamı";
+"NFCDisplayMessageStrings_MissingMandatoryFields" = "Eksik Zorunlu Alanlar";
+"NFCDisplayMessageStrings_CannotDecodeASN1Length" = "ASN1 Uzunluğunun Kodu Çözülemiyor";
+"NFCDisplayMessageStrings_InvalidASN1Value" = "Geçersiz ASN1 Değeri";
+"NFCDisplayMessageStrings_UnableToProtectAPDU" = "UnableToProtectAPDU";
+"NFCDisplayMessageStrings_UnableToUnprotectAPDU" = "APDU Korunamıyor";
+"NFCDisplayMessageStrings_UnsupportedDataGroup" = "Desteklenmeyen Veri Grubu";
+"NFCDisplayMessageStrings_DataGroupNotRead" = "Veri Grubu Okunmadı";
+"NFCDisplayMessageStrings_UnknownTag" = "Bilinmeyen Etiket";
+"NFCDisplayMessageStrings_UnknownImageFormat" = "Bilinmeyen Görüntü Biçimi";
+"NFCDisplayMessageStrings_NotImplemented" = "Uygulanmadı";
+"NFCDisplayMessageStrings_TagNotValid" = "Etiket Geçerli Değil";
+"NFCDisplayMessageStrings_ConnectionEr" = "Bağlantı hatası";
+"NFCDisplayMessageStrings_UserCanceled" = "Kullanıcı İptal Edildi";
+"NFCDisplayMessageStrings_InvalidMRZKey" = "Geçersiz MRZ Anahtarı";
+"NFCDisplayMessageStrings_MoreThanOneTagFound" = "Birden Fazla Etiket Bulundu";
+"NFCDisplayMessageStrings_InvalidHashAlgorithmSpecified" = "Geçersiz Hash Algoritması Belirtildi";
+"NFCDisplayMessageStrings_UnsupportedCipherAlgorithm" = "Desteklenmeyen Şifreleme Algoritması";
+"NFCDisplayMessageStrings_UnsupportedMappingType" = "Desteklenmeyen Eşleme Türü";
+"NFCDisplayMessageStrings_PACEError" = "PACE Hatası";
+"NFCDisplayMessageStrings_ChipAuthenticationFailed" = "Çip Kimlik Doğrulaması Başarısız";
+"NFCDisplayMessageStrings_InvalidDataPassed" = "Geçersiz Veri Aktarıldı";
+"NFCDisplayMessageStrings_NotYetSupported" = "Henüz Desteklenmiyor";
+"NFCDisplayMessageStrings_SecurityStatusNotSatisfied"="Güvenlik durumu tatmin edici değil";
+"NFCDisplayMessageStrings_SessionInvalidated"="Oturum Geçersiz Kılındı";
+"NFCDisplayMessageStrings_ClassNotSupported"="Sınıf Desteklenmiyor";
+"NFCDisplayMessageStrings_TagConnectionLost"="Etiket Bağlantısı Kesildi";

@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  PassportIdNfcReader
+
+  Created by Güneş İLİKSİZ on 23.05.2023.
+  Copyright © 2023 Facebook. All rights reserved.
+*/
+"NFCDisplayMessageStrings_NearNFC" = "Держите iPhone рядом с паспортом с поддержкой NFC.";
+"NFCDisplayMessageStrings_Authenticating" = "Аутентификация";
+"NFCDisplayMessageStrings_Reading" = "чтение";
+"NFCDisplayMessageStrings_TagNoValid" = "Тег недействителен";
+"NFCDisplayMessageStrings_OneTagFound" = "Найдено более одного тега. Пожалуйста, покажите только один тег.";
+"NFCDisplayMessageStrings_ConnectionError" = "Ошибка подключения. Пожалуйста, попробуйте еще раз.";
+"NFCDisplayMessageStrings_MRZKeyNotValid" = "Ключ MRZ недействителен для этого документа.";
+"NFCDisplayMessageStrings_ProblemReading" = "Извините, возникла проблема с чтением.";
+"NFCDisplayMessageStrings_TryAgainProblemReading" = "Извините, возникла проблема с чтением. Пожалуйста, попробуйте еще раз.";
+"NFCDisplayMessageStrings_ReadSuccessfully" = "Успешно прочитано";
+"NFCDisplayMessageStrings_InvalidResponse" = "Неверный ответ";
+"NFCDisplayMessageStrings_UnexpectedError" = "Неожиданная ошибка";
+"NFCDisplayMessageStrings_NFCNotSupported" = "NFC не поддерживается";
+"NFCDisplayMessageStrings_NoConnectedTag" = "Не подключенный тег";
+"NFCDisplayMessageStrings_D087Malformed" = "D087 Деформированный";
+"NFCDisplayMessageStrings_InvalidResponseChecksum" = "Неверная контрольная сумма ответа";
+"NFCDisplayMessageStrings_MissingMandatoryFields" = "Отсутствуют обязательные поля";
+"NFCDisplayMessageStrings_CannotDecodeASN1Length" = "Невозможно декодировать длину ASN1";
+"NFCDisplayMessageStrings_InvalidASN1Value" = "Недопустимое значение ASN1";
+"NFCDisplayMessageStrings_UnableToProtectAPDU" = "Невозможно защитить APDU";
+"NFCDisplayMessageStrings_UnableToUnprotectAPDU" = "Невозможно снять защиту APDU";
+"NFCDisplayMessageStrings_UnsupportedDataGroup" = "Неподдерживаемая группа данных";
+"NFCDisplayMessageStrings_DataGroupNotRead" = "Группа данных не прочитана";
+"NFCDisplayMessageStrings_UnknownTag" = "Неизвестный тег";
+"NFCDisplayMessageStrings_UnknownImageFormat" = "Неизвестный формат изображения";
+"NFCDisplayMessageStrings_NotImplemented" = "Не реализована";
+"NFCDisplayMessageStrings_TagNotValid" = "Тег недействителен";
+"NFCDisplayMessageStrings_ConnectionEr" = "Ошибка подключения";
+"NFCDisplayMessageStrings_UserCanceled" = "Пользователь отменен";
+"NFCDisplayMessageStrings_InvalidMRZKey" = "Неверный ключ MRZ";
+"NFCDisplayMessageStrings_MoreThanOneTagFound" = "Найдено более одного тега";
+"NFCDisplayMessageStrings_InvalidHashAlgorithmSpecified" = "Указан недопустимый алгоритм хэширования";
+"NFCDisplayMessageStrings_UnsupportedCipherAlgorithm" = "Неподдерживаемый алгоритм шифрования";
+"NFCDisplayMessageStrings_UnsupportedMappingType" = "Неподдерживаемый тип отображения";
+"NFCDisplayMessageStrings_PACEError" = "Ошибка PACE";
+"NFCDisplayMessageStrings_ChipAuthenticationFailed" = "Ошибка аутентификации чипа";
+"NFCDisplayMessageStrings_InvalidDataPassed" = "Переданы недопустимые данные";
+"NFCDisplayMessageStrings_NotYetSupported" = "Пока не поддерживается";
+"NFCDisplayMessageStrings_SecurityStatusNotSatisfied"="Security status not satisfied";
+"NFCDisplayMessageStrings_SessionInvalidated"="Сессия недействительна";
+"NFCDisplayMessageStrings_ClassNotSupported"="Класс не поддерживается";
+"NFCDisplayMessageStrings_TagConnectionLost"="Соединение с тегом потеряно";
